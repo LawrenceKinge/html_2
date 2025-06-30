@@ -48,7 +48,7 @@
 
 .dark-background {
   --background-color: #060606;
-  --default-color: #ffffff;
+  --default-color: #c58c8c;
   --heading-color: #ffffff;
   --surface-color: #252525;
   --contrast-color: #ffffff;
@@ -146,8 +146,8 @@ h6 {
 --------------------------------------------------------------*/
 .header {
   --background-color: rgba(255, 255, 255, 0);
-  --default-color: #ffffff;
-  --heading-color: #ffffff;
+  --default-color: #e3aeae;
+  --heading-color: #f87070;
   color: var(--default-color);
   background-color: var(--background-color);
   padding: 15px 0;
@@ -199,7 +199,7 @@ h6 {
 /* Global Header on Scroll
 ------------------------------*/
 .scrolled .header {
-  --background-color: #ffffff;
+  --background-color: #ff0000;
 }
 
 /*--------------------------------------------------------------
