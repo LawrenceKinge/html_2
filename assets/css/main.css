@@ -64,7 +64,7 @@
 --------------------------------------------------------------*/
 body {
   color: var(--default-color);
-  background-color: var(--background-color);
+  background: linear-gradient(to bottom, #e6dede, white);
   font-family: var(--default-font);
 }
 
